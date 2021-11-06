@@ -1,3 +1,24 @@
 body {
   background-color: aliceblue;
+  background-image: url(/gabriel-barletta-DJ-unsplash.jpg);
+  background-position: 0%;
+}
+/*Picture from Unplash.com, Creator = Gabriel Barletta, @gabrielbarletta*/
+h1{
+  color: white;
+  font-size: 20pt;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  ;
+}
+.table-container{
+  color: white;
+  font-weight: bold;
+  background-color: black;
+  opacity: .9;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
